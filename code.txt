@@ -1,1 +1,2 @@
-int x = 40
+int x = 35
+changed x to 35
