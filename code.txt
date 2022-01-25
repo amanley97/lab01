@@ -1,1 +1,3 @@
-int x = 40
+int x = 25
+
+change x to 25
